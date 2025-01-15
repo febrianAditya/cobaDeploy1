@@ -5,8 +5,8 @@ import HomePage from './pages/HomePage/HomePage'
 import AboutPage from './pages/aboutPage/AboutPage'
 import AboutCompany from "./pages/AllAbout/AboutCompany"
 import AboutMePage from "./pages/AllAbout/AboutMePage" 
-import FebirPage from "./pages/memberPage/FebriPage"
-import JhonPage from "./pages/memberPage/JhonPage"
+// import FebirPage from "./pages/memberPage/FebriPage"
+// import JhonPage from "./pages/memberPage/JhonPage"
 import OnlyMember from "./pages/memberPage/onlyMemberPage"
 import CarPage from "./pages/CarsPage/CarsPage"
 import DetailCar from "./pages/CarsPage/DetailCar"
